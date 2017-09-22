@@ -1,0 +1,7 @@
+com/cristian/example/order/ApplicationConfig$JerseyConfig.class
+com/cristian/example/rest/OrderRest.class
+com/cristian/example/rest/Client.class
+com/cristian/example/order/Application.class
+com/cristian/example/rest/Product.class
+com/cristian/example/order/ApplicationConfig.class
+com/cristian/example/rest/Order.class
